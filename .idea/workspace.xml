@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="118c949a-c427-4f46-bf7d-0959fe336186" name="Default Changelist" comment="" />
+    <list default="true" id="118c949a-c427-4f46-bf7d-0959fe336186" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MatopeliPyGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pong.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pong.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,34 +53,35 @@
     <session id="73548904">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4863" />
+          <entry key="py" value="6074" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="4863" />
+          <entry key="Python" value="6074" />
         </counts>
       </usages-collector>
     </session>
@@ -86,7 +91,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SpaceInvaders.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-527">
+            <state relative-caret-position="1088">
               <caret line="67" column="21" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -102,26 +107,43 @@
               <caret line="101" column="29" selection-start-line="101" selection-start-column="29" selection-end-line="101" selection-end-column="29" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-                <marker date="1539324380758" expanded="true" signature="4117:5211" ph="..." />
-                <marker date="1539324380758" expanded="true" signature="4304:4313" ph="..." />
+                <marker date="1540278394351" expanded="true" signature="4117:5211" ph="..." />
+                <marker date="1540278394351" expanded="true" signature="4304:4313" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PyGame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1035">
+              <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <marker date="1540278394848" expanded="true" signature="475:614" ph="..." />
+                <marker date="1540278394848" expanded="true" signature="664:743" ph="..." />
+                <marker date="1540278394848" expanded="true" signature="1326:2045" ph="..." />
+                <marker date="1540278394848" expanded="true" signature="2062:3411" ph="..." />
+                <marker date="1540278394848" expanded="true" signature="2725:2762" ph="..." />
+                <marker date="1540278394848" expanded="true" signature="3427:3450" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PyGame.py">
+        <entry file="file://$PROJECT_DIR$/MatopeliPyGame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="200" column="41" lean-forward="true" selection-start-line="200" selection-start-column="41" selection-end-line="200" selection-end-column="41" />
+            <state relative-caret-position="410">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
-                <marker date="1540273454897" expanded="true" signature="475:614" ph="..." />
-                <marker date="1540273454897" expanded="true" signature="664:743" ph="..." />
-                <marker date="1540273454897" expanded="true" signature="1326:2045" ph="..." />
-                <marker date="1540273454897" expanded="true" signature="2062:3411" ph="..." />
-                <marker date="1540273454897" expanded="true" signature="2725:2762" ph="..." />
-                <marker date="1540273454897" expanded="true" signature="3427:3450" ph="..." />
+                <element signature="e#38#51#0" expanded="true" />
+                <marker date="1540368364703" expanded="true" signature="133:134" ph="..." />
+                <marker date="1540368364703" expanded="true" signature="133:135" ph="..." />
+                <marker date="1540368364703" expanded="true" signature="133:564" ph="..." />
+                <marker date="1540368364703" expanded="true" signature="166:425" ph="..." />
+                <marker date="1540368364703" expanded="true" signature="630:635" ph="..." />
               </folding>
             </state>
           </provider>
@@ -130,14 +152,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Omatekoinenpeli.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1581">
+            <state relative-caret-position="674">
               <caret line="95" column="46" selection-start-line="95" selection-start-column="46" selection-end-line="95" selection-end-column="46" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <marker date="1539332135957" expanded="true" signature="179:184" ph="..." />
-                <marker date="1539332135957" expanded="true" signature="1566:1573" ph="..." />
-                <marker date="1539332135957" expanded="true" signature="1586:2303" ph="..." />
-                <marker date="1539332135957" expanded="true" signature="1610:1651" ph="..." />
+                <marker date="1540278394349" expanded="true" signature="179:184" ph="..." />
+                <marker date="1540278394349" expanded="true" signature="1566:1573" ph="..." />
+                <marker date="1540278394349" expanded="true" signature="1586:2303" ph="..." />
+                <marker date="1540278394349" expanded="true" signature="1610:1651" ph="..." />
               </folding>
             </state>
           </provider>
@@ -146,11 +168,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Matopeli.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="272">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <marker date="1539597873704" expanded="true" signature="935:938" ph="..." />
+                <marker date="1540278394349" expanded="true" signature="935:938" ph="..." />
               </folding>
             </state>
           </provider>
@@ -159,12 +181,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pong.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="97" column="39" selection-start-line="97" selection-start-column="39" selection-end-line="97" selection-end-column="39" />
+            <state relative-caret-position="1253">
+              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <marker date="1540274579015" expanded="true" signature="729:1021" ph="..." />
-                <marker date="1540274579015" expanded="true" signature="1190:1193" ph="..." />
+                <marker date="1540279038099" expanded="true" signature="963:1255" ph="..." />
+                <marker date="1540279038099" expanded="true" signature="1424:1427" ph="..." />
               </folding>
             </state>
           </provider>
@@ -195,6 +217,7 @@
         <option value="$PROJECT_DIR$/Matopeli.py" />
         <option value="$PROJECT_DIR$/PyGame.py" />
         <option value="$PROJECT_DIR$/Pong.py" />
+        <option value="$PROJECT_DIR$/MatopeliPyGame.py" />
       </list>
     </option>
   </component>
@@ -208,7 +231,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,6 +242,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Pong">
+  <component name="RunManager" selected="Python.MatopeliPyGame">
     <configuration name="Matopeli" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tictactoe" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,6 +280,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matopeli.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MatopeliPyGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tictactoe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MatopeliPyGame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,41 +372,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SpaceWar" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="tictactoe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SpaceWar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.Omatekoinenpeli" />
-      <item itemvalue="Python.SpaceWar" />
       <item itemvalue="Python.Matopeli" />
       <item itemvalue="Python.Pong" />
       <item itemvalue="Python.PyGame" />
+      <item itemvalue="Python.MatopeliPyGame" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MatopeliPyGame" />
         <item itemvalue="Python.Pong" />
         <item itemvalue="Python.PyGame" />
         <item itemvalue="Python.Matopeli" />
         <item itemvalue="Python.Omatekoinenpeli" />
-        <item itemvalue="Python.SpaceWar" />
       </list>
     </recent_temporary>
   </component>
@@ -396,20 +419,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20940171" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893162" weight="0.18072289" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.71581197" visible="true" weight="0.18181819" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49893162" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49786323" weight="0.32968238" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50106835" side_tool="true" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.28418803" side_tool="true" visible="true" weight="0.18181819" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -450,46 +474,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpaceWar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="101" column="29" selection-start-line="101" selection-start-column="29" selection-end-line="101" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1539324380758" expanded="true" signature="4117:5211" ph="..." />
-            <marker date="1539324380758" expanded="true" signature="4304:4313" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Omatekoinenpeli.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
-          <caret line="95" column="46" selection-start-line="95" selection-start-column="46" selection-end-line="95" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <marker date="1539332135957" expanded="true" signature="179:184" ph="..." />
-            <marker date="1539332135957" expanded="true" signature="1566:1573" ph="..." />
-            <marker date="1539332135957" expanded="true" signature="1586:2303" ph="..." />
-            <marker date="1539332135957" expanded="true" signature="1610:1651" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Matopeli.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <marker date="1539597873704" expanded="true" signature="935:938" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpaceInvaders.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-527">
+        <state relative-caret-position="1088">
           <caret line="67" column="21" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -497,30 +484,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pong.py">
+    <entry file="file://$PROJECT_DIR$/SpaceWar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="97" column="39" selection-start-line="97" selection-start-column="39" selection-end-line="97" selection-end-column="39" />
+        <state relative-caret-position="1666">
+          <caret line="101" column="29" selection-start-line="101" selection-start-column="29" selection-end-line="101" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1540278394351" expanded="true" signature="4117:5211" ph="..." />
+            <marker date="1540278394351" expanded="true" signature="4304:4313" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Matopeli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <marker date="1540274579015" expanded="true" signature="729:1021" ph="..." />
-            <marker date="1540274579015" expanded="true" signature="1190:1193" ph="..." />
+            <marker date="1540278394349" expanded="true" signature="935:938" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1253">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1540279038099" expanded="true" signature="963:1255" ph="..." />
+            <marker date="1540279038099" expanded="true" signature="1424:1427" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Omatekoinenpeli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="95" column="46" selection-start-line="95" selection-start-column="46" selection-end-line="95" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1540278394349" expanded="true" signature="179:184" ph="..." />
+            <marker date="1540278394349" expanded="true" signature="1566:1573" ph="..." />
+            <marker date="1540278394349" expanded="true" signature="1586:2303" ph="..." />
+            <marker date="1540278394349" expanded="true" signature="1610:1651" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PyGame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="200" column="41" lean-forward="true" selection-start-line="200" selection-start-column="41" selection-end-line="200" selection-end-column="41" />
+        <state relative-caret-position="-1035">
+          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <marker date="1540273454897" expanded="true" signature="475:614" ph="..." />
-            <marker date="1540273454897" expanded="true" signature="664:743" ph="..." />
-            <marker date="1540273454897" expanded="true" signature="1326:2045" ph="..." />
-            <marker date="1540273454897" expanded="true" signature="2062:3411" ph="..." />
-            <marker date="1540273454897" expanded="true" signature="2725:2762" ph="..." />
-            <marker date="1540273454897" expanded="true" signature="3427:3450" ph="..." />
+            <marker date="1540278394848" expanded="true" signature="475:614" ph="..." />
+            <marker date="1540278394848" expanded="true" signature="664:743" ph="..." />
+            <marker date="1540278394848" expanded="true" signature="1326:2045" ph="..." />
+            <marker date="1540278394848" expanded="true" signature="2062:3411" ph="..." />
+            <marker date="1540278394848" expanded="true" signature="2725:2762" ph="..." />
+            <marker date="1540278394848" expanded="true" signature="3427:3450" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MatopeliPyGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#38#51#0" expanded="true" />
+            <marker date="1540368364703" expanded="true" signature="133:134" ph="..." />
+            <marker date="1540368364703" expanded="true" signature="133:135" ph="..." />
+            <marker date="1540368364703" expanded="true" signature="133:564" ph="..." />
+            <marker date="1540368364703" expanded="true" signature="166:425" ph="..." />
+            <marker date="1540368364703" expanded="true" signature="630:635" ph="..." />
           </folding>
         </state>
       </provider>
